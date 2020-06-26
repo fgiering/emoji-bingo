@@ -13,18 +13,18 @@ const app = new App({
       "🚗",
       "🏎",
       "🛺",
-      "🚙 (Wohnmobil)",
-      "🐟 (Aufkleber)",
+      "🚙", // (Wohnmobil)
+      "🐟", // (Aufkleber)
       "🚓",
       "🐴",
       "✈",
       "🏃‍♀️",
       "🚈",
-      "🧺 (Wäsche)",
+      "🧺", // (Wäsche)
       "🏍",
       "🌉",
-      "⚽ (Fußballfeld)",
-      "Comic Sans",
+      "⚽", // (Fußballfeld)
+      // "Comic Sans",
       "🐶",
       "🛑",
       "🚧",
